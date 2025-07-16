@@ -15,6 +15,7 @@ This project includes a series of Power BI dashboards built using multi-year oil
 - Well Status Overview
 - Top 10 Wells & Fields
 <img width="1345" height="750" alt="Image" src="https://github.com/user-attachments/assets/3500393e-72d2-4874-b4a4-c3ed1ef6b364" />
+
 ### 3. Production Overview
 - Oil/Gas/Water Trends
 - Spatial Production Map
